@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **rounak1saha@gmail.com**
+- 📫 How to reach me **rounak3saha@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MvvIvYuuncAmuU6nVxK8iMRxJ6naaA8M/view?usp=sharing](https://drive.google.com/file/d/1MvvIvYuuncAmuU6nVxK8iMRxJ6naaA8M/view?usp=sharing)
 
